@@ -1,0 +1,49 @@
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-align: center;
+    font-weight: normal;
+}
+body{
+    background-image:url(https://www.xtrafondos.com/wallpapers/textura-metalica-2945.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+.icon{
+    height: 35px;
+    padding: 5px;
+}
+.imagens{
+    height: 300px;
+    padding: 10px;
+    
+}
+.title{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    background-color: rgba(249, 249, 249, 0.536);
+    padding: 5px;
+}
+.content{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-right: 30%;
+    margin-left: 10px;
+    background-color: rgba(249, 249, 249, 0.536);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
