@@ -5,7 +5,7 @@
     font-weight: normal;
 }
 body{
-    background-image:url(fundo.jpg);
+    background-image:url("fundo.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
